@@ -1,7 +1,7 @@
 # Privacy Policy
 
-SimLeague respects your privacy. We do not collect, store, or share your personal data without your consent.
+SimLeague respects your privacy. We do not collect, store, or share your personal data without your explicit consent.
 
-Any wallet or blockchain interactions are done securely through TON Connect and your wallet provider. We do not access your private keys or personal information.
+All wallet and blockchain interactions are conducted securely via TON Connect and your selected wallet provider. SimLeague never accesses your private keys or personal information.
 
-For more info, contact: support@simleague.ai
+For any inquiries, contact us at: **support@simleague.ai**
