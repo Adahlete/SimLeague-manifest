@@ -1,0 +1,12 @@
+{
+  "url": "http://127.0.0.1:8000",
+  "name": "SimLeague",
+  "termsOfUseUrl": "https://gist.githubusercontent.com/Adahlete/6eb33098dbe07c95b76d3580db3014c2/raw/508c2c0e94b83d975904718bc7480946b8667d20/terms_of_use.md",
+  "privacyPolicyUrl": "http://127.0.0.1:8000/privacy",
+  "iconUrl": "https://res.cloudinary.com/dtrpyrxnr/image/upload/v1753154419/file_00000000328461fa9642d153b3cabd89_fov3oj.png",
+  "manifestVersion": "1.0.0",
+  "bridge": {
+    "type": "js"
+  },
+  "platforms": ["android", "ios", "web"]
+}
